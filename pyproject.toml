@@ -1,0 +1,28 @@
+[project]
+name = "project1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "category-encoders>=2.9.0",
+    "graphviz>=0.21",
+    "imbalanced-learn>=0.14.1",
+    "ipykernel>=7.2.0",
+    "jupyterlab>=4.5.7",
+    "keras>=3.14.0",
+    "keras-hub>=0.29.0",
+    "matplotlib>=3.10.9",
+    "modal>=1.4.2",
+    "nltk>=3.9.4",
+    "notebook>=7.5.6",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "plotly>=6.7.0",
+    "pydot>=4.0.1",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "spacy>=3.8.14",
+    "streamlit>=1.57.0",
+    "tensorflow-hub>=0.16.1",
+]
