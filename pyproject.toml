@@ -9,6 +9,7 @@ dependencies = [
     "graphviz>=0.21",
     "imbalanced-learn>=0.14.1",
     "ipykernel>=7.2.0",
+    "joblib>=1.5.3",
     "jupyterlab>=4.5.7",
     "keras>=3.14.0",
     "keras-hub>=0.29.0",
